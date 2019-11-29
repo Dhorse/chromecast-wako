@@ -1,0 +1,8 @@
+{
+  "openMedia": "Test Toast - Media {{imdbId}}",
+  "settings": {
+    "title": "Rate on Trakt",
+    "settings": "settings",
+    "rate": "Rate"
+  }
+}
