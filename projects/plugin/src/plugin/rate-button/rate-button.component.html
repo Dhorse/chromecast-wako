@@ -1,0 +1,7 @@
+<ng-container *ngIf="type === 'button'">
+  <!-- <ion-button *ngIf="settings" class="open-on-kodi" color="light" expand="block" fill="outline"> -->
+  <ion-button class="open-on-kodi" color="light" expand="block" fill="outline" (click)="rateOnTrakt()">
+    <ion-icon mode="ios" name="list" color="light" slot="start"></ion-icon>
+    <ion-text>{{ 'rate-button.label' | translate }}</ion-text>
+  </ion-button>
+</ng-container>

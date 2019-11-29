@@ -1,0 +1,26 @@
+{
+  "openMedia": "Test Toast - Media {{imdbId}}",
+  "settings": {
+    "title": "My Plugin - Settings"
+  },
+  "rate-button": {
+    "label": "Rate on Trakt"
+  },
+  "rate-popover": {
+    "label": "Select your Rating",
+    "10": "10 - Best",
+    "9": "9",
+    "8": "8",
+    "7": "7",
+    "6": "6",
+    "5": "5 - Average",
+    "4": "4",
+    "3": "3",
+    "2": "2",
+    "1": "1 - Worst"
+  },
+  "shared": {
+    "cancel": "Cancel"
+  }
+
+}
